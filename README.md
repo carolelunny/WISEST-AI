@@ -13,8 +13,19 @@ WISEST AI aims to reduce this workload by developing AI-assisted appraisal metho
 
 A central concern is that an AI system may produce the correct judgement for the wrong reason, or repeatedly produce an incorrect judgement.
 
-**WISEST therefore evaluates not only the final appraisal judgement, but also the evidence and reasoning used to support it.**
+WISEST therefore evaluates not only the final appraisal judgement, but also the evidence and reasoning used to support it.
 ---
+
+**WISEST AI Project Development**
+The WISEST AI project was developed through four stages:
+1. Identifying the research problem, 
+2. Evaluating existing tools and evidence-user needs, 
+3. Selecting appraisal features, and 
+4. Developing the human reference dataset.
+
+![WISEST project development](wisest%20history%20background%20flowchart%202026.png)
+
+*Figure 1. Development stages of the WISEST research program.*
 
 ## 2. The WISEST Reference Dataset
 A major contribution of WISEST is its curated reference dataset of approximately **200 systematic reviews** assessed by trained human reviewers.
